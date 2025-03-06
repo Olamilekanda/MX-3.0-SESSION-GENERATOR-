@@ -1,7 +1,7 @@
 {
 "name": "MX 3.0",
     "version": "1.0.0",
-    "description": "PAIR CODE TO CHANGE THE WORLD 🌎.",
+    "description": "PAIR CODE TO CHANGE THE WORLD.",
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name mx",
